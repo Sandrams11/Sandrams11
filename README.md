@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @Sandrams11
+
+Soy analista de datos en constante formación, apasionada por transformar datos en decisiones. Me gusta explorar, limpiar, visualizar e interpretar información para resolver problemas reales.
+
+🔍 Intereses: Análisis de negocios, visualización de datos, machine learning básico y storytelling.
+
+📚 Actualmente mejorando mis habilidades en:
+- Python para análisis de datos
+- SQL
+- Tableau / Power BI
+- Git & GitHub
+- Storytelling con datos
+
+💼 Buscando oportunidades para aplicar mis conocimientos en proyectos reales y seguir creciendo 🚀
+
+📫 Cómo contactarme: www.linkedin.com/in/sandra-martinez-sanabria
