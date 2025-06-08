@@ -8,7 +8,7 @@ Soy analista de datos en constante formación, apasionada por transformar datos 
 - Python para análisis de datos
 - SQL
 - Tableau / Power BI
-- Git & GitHub
+- GitHub
 - Storytelling con datos
 
 💼 Buscando oportunidades para aplicar mis conocimientos en proyectos reales y seguir creciendo 🚀
