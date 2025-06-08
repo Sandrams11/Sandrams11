@@ -2,7 +2,7 @@
 
 Soy analista de datos en constante formación, apasionada por transformar datos en decisiones. Me gusta explorar, limpiar, visualizar e interpretar información para resolver problemas reales.
 
-🔍 Intereses: Análisis de negocios, visualización de datos, machine learning básico y storytelling.
+🔍 Intereses: Análisis y visualización de datos, machine learning y storytelling.
 
 📚 Actualmente mejorando mis habilidades en:
 - Python para análisis de datos
